@@ -56,7 +56,6 @@ puts "----------------------------"
     end
     puts "#{custom} #{coffee}です！"
     puts "ありがとうございました！"
-    a = 123
   end
   
   g = greeting
